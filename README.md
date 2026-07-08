@@ -7,7 +7,6 @@ This project analyzes customer purchasing behavior using Python, SQL, and Power 
 ## 📊 Dashboard Preview
 
 ![Customer Behavior Dashboard](Dashboard.png)
-*(Note: If the dashboard image isn't visible, please ensure 'Dashboard.png' is uploaded to the root of your repository)*
 
 ---
 
